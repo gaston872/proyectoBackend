@@ -46,4 +46,5 @@ class productManager {
 
 const productManager = new ProductManager()
 
-probando
+
+let probando = 123
