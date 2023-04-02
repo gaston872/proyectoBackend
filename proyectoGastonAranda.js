@@ -1,4 +1,4 @@
-class productManager {
+class ProductManager {
 
     #products
 

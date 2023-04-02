@@ -1,0 +1,21 @@
+{
+  "name": "proyectobackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "proyectoGastonAranda.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaston872/proyectoBackend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaston872/proyectoBackend/issues"
+  },
+  "homepage": "https://github.com/gaston872/proyectoBackend#readme"
+}
