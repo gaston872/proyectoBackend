@@ -78,6 +78,16 @@ class ProductManager {
 
 }
 
+const manager = new ProductManager('products.json');
+
+manager.addProduct('retrato rita', 'retrato', 'pintura al oleo', 18200, 'imagen', 3)
+manager.addProduct('autoretrato', 'retrato', 'pintura al oleo', 20500, 'imagen', 2)
+manager.addProduct('rita en sueño', 'pintura', 'dibujo con lapiz', 8500, 'imagen', 4)
+
+console.log(manager.getProducts());
+
+
+
 
 
 
